@@ -1,0 +1,14 @@
+
+### requirements.txt
+```txt
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+# surprise>=0.1
+matplotlib>=3.5.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+notebook>=6.4.0
+tqdm>=4.62.0
+joblib>=1.1.0
